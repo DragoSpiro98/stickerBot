@@ -28,6 +28,7 @@ Install the dependencies:
 
 ```bash
 > npm install
+or
 > yarn install
 ```
 
@@ -37,6 +38,7 @@ Install the dependencies:
 
 ```bash
 > npm start
+or
 > yarn start
 ```
 
