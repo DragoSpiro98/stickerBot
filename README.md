@@ -21,7 +21,7 @@ Clone this project
 
 ```bash
 > git clone https://github.com/DragoSpiro98/stickerBot.git
-> cd imageToSticker
+> cd stickerBot
 ```
 
 Install the dependencies:
